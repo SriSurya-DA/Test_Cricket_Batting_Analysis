@@ -1,5 +1,7 @@
 # Test Cricket Batting Analysis
 
+![Batting](https://github.com/SriSurya-DA/Test_Cricket_Battings_Analysis-Data_Cleaning-/blob/main/Test_Cricket.webp)
+
 ## Overview
 This project performs a detailed analysis of Test cricket batting records using data cleaning, feature engineering, and exploratory data analysis (EDA). The goal is to uncover insights into players' performances and career trends.
 

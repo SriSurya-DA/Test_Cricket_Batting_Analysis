@@ -126,6 +126,7 @@ sns.set_theme(style='darkgrid')
 sns.scatterplot(df.groupby('Country')[['100', '50', 'Ducks']].mean())
 ```
 
+![Result](https://github.com/SriSurya-DA/Test_Cricket_Batting_Analysis/blob/main/test_battings_result.png)
 ---
 
 ## Conclusion
